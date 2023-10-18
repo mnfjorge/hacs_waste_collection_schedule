@@ -37,6 +37,7 @@ EXTRA_INFO = [
         "url": "https://recyclecoach.com/cities/usa-ky-city-of-louisville/",
     },
     {"title": "London (ON)", "url": "https://london.ca/", "country": "ca"},
+    {"title": "Hamilton (ON)", "url": "https://hamilton.ca/", "country": "ca"},
 ]
 
 TEST_CASES = {
